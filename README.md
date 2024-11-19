@@ -1,1 +1,2 @@
-# RateMyUCI
+# Welcome to RateMyUCI
+#
